@@ -5,7 +5,7 @@
 
     * A single page application (SPA)
     * Interviews can be created, updated and deleted 
-    * Email sent to candidates with Interview time , Interview Date and meeting link
+    * Email sent to candidates with interview time, interview Date and meeting link
     * Availability of candidates can be seen
     * Option to upload resume and download it
     * View full details of the interview 
