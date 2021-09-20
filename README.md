@@ -16,3 +16,7 @@
     * Flask is used for backend
     * SQLalchemy is used as a wrapper for communicating with Database
     * Flask-Mail is used as a mailing service
+
+# Live Link :
+
+https://mysterious-basin-57541.herokuapp.com/
