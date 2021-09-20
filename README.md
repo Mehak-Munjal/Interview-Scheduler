@@ -1,4 +1,4 @@
-# Interview_Scheduler
+# Interview Scheduler
 
 
  # Below are the features of the app :
